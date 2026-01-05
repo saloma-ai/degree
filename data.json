@@ -1,0 +1,14 @@
+[
+  {
+    "national_id": "1234567890",
+    "student_name": "سارة أحمد",
+    "score": 88,
+    "result": "ناجح"
+  },
+  {
+    "national_id": "1234567891",
+    "student_name": "نورة علي",
+    "score": 54,
+    "result": "راسب"
+  }
+]
