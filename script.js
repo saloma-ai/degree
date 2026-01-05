@@ -10,7 +10,7 @@ async function search() {
   const response = await fetch("data.json");
   const data = await response.json();
 
-  const student = data.find(s => s.national_id === id);
+  const student = data.find(s => s.national_id.trim() === id);
 
   if (student) {
     resultDiv.innerHTML = `
@@ -22,3 +22,4 @@ async function search() {
     resultDiv.innerHTML = "❌ لا توجد نتيجة لهذا الرقم";
   }
 }
+
