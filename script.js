@@ -15,8 +15,20 @@ async function search() {
   if (student) {
     resultDiv.innerHTML = `
       <p><strong>الاسم:</strong> ${student.student_name}</p>
-      <p><strong>الدرجة:</strong> ${student.score}</p>
-      <p><strong>النتيجة:</strong> ${student.result}</p>
+      <div class="degree-boxes">
+        <div class="degree-box">
+          <h3>COMPUTER</h3>
+          <p>${student.computer}</p>
+        </div>
+        <div class="degree-box">
+          <h3>BISS</h3>
+          <p>${student.biss}</p>
+        </div>
+        <div class="degree-box">
+          <h3>ENGLISH</h3>
+          <p>${student.english}</p>
+        </div>
+      </div>
     `;
   } else {
     resultDiv.innerHTML = "❌ لا توجد نتيجة لهذا الرقم";
