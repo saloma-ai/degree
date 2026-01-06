@@ -100,6 +100,35 @@ button:hover {
   min-height: 20px;
 }
 
+.degree-boxes {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.degree-box {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 30%;
+  min-height: 80px;
+}
+
+.degree-box h3 {
+  margin: 0 0 10px 0;
+  color: #667eea;
+  font-size: 1.2em;
+}
+
+.degree-box p {
+  margin: 0;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #333;
+}
+
 @media (max-width: 480px) {
   .box {
     width: 90%;
