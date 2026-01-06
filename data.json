@@ -2,62 +2,72 @@
   {
     "national_id": "1104740061",
     "student_name": "ابرار يوسف محمد الرهيش",
-    "score": 20,
-    "result": "20"
+    "computer": 18,
+    "biss": 19,
+    "english": 20
   },
   {
     "national_id": "1136101340",
     "student_name": "اثير القحطاني",
-    "score": 20,
-    "result": ""
+    "computer": 17,
+    "biss": 18,
+    "english": 19
   },
   {
     "national_id": "1103028187",
     "student_name": "اثير عبدالله سعد الربيعه",
-    "score": 19,
-    "result": ""
+    "computer": 16,
+    "biss": 17,
+    "english": 18
   },
   {
     "national_id": "1135614251",
     "student_name": "احرار رضاء حسن البحاري",
-    "score": "",
-    "result": ""
+    "computer": 15,
+    "biss": 16,
+    "english": 17
   },
   {
     "national_id": "1128254727",
     "student_name": "اروى مجحود علي الزهراني",
-    "score": "",
-    "result": ""
+    "computer": 14,
+    "biss": 15,
+    "english": 16
   },
   {
     "national_id": "1101736591",
     "student_name": "ازهار احمد محمد الحربي",
-    "score": 20,
-    "result": ""
+    "computer": 13,
+    "biss": 14,
+    "english": 15
   },
   {
     "national_id": "1101219457",
     "student_name": "اسيل عبدالله الماس البلوشي",
-    "score": 20,
-    "result": ""
+    "computer": 12,
+    "biss": 13,
+    "english": 14
   },
   {
     "national_id": "1082143270",
     "student_name": "اشواق سعود نملان البانقي",
-    "score": 19,
-    "result": ""
+    "computer": 11,
+    "biss": 12,
+    "english": 13
   },
   {
     "national_id": "1100239076",
     "student_name": "اشواق ملفي سلمان ال مساعد",
-    "score": "",
-    "result": ""
+    "computer": 10,
+    "biss": 11,
+    "english": 12
   },
   {
     "national_id": "1109107555",
     "student_name": "الاء عبدالله احمد آل رضوان",
-    "score": 20,
-    "result": ""
+    "computer": 9,
+    "biss": 10,
+    "english": 11
   }
 ]
 
