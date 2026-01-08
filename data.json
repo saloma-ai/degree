@@ -67,7 +67,7 @@
     "م": "9",
     "student_name": "أمينه شيبوب مرزوق الدوسري",
     "national_id": "1116287903",
-    "computer": "98",
+    "computer": "100",
     "biss": "100",
     "english": "100"
   },
@@ -155,7 +155,7 @@
     "م": "20",
     "student_name": "هيام سالم مرزوق ال نصيب",
     "national_id": "1132814391",
-    "computer": "94",
+    "computer": "96",
     "biss": "98",
     "english": "98"
   },
@@ -691,7 +691,7 @@
     "م": "87",
     "student_name": "صالحه يحيى حسن البيشي",
     "national_id": "1122313487",
-    "computer": "",
+    "computer": "0",
     "biss": "0",
     "english": "68"
   },
@@ -1067,7 +1067,7 @@
     "م": "134",
     "student_name": "رهف محمد علي حامظي",
     "national_id": "1127516316",
-    "computer": "96",
+    "computer": "98",
     "biss": "100",
     "english": "100"
   },
@@ -1139,7 +1139,7 @@
     "م": "143",
     "student_name": "نوف سعد علي آل نصيب",
     "national_id": "1126777596",
-    "computer": "89",
+    "computer": "90",
     "biss": "100",
     "english": "96"
   },
@@ -1208,3 +1208,5 @@
     "english": "100"
   }
 ]
+
+
